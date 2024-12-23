@@ -34,7 +34,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
-Developed by: SURYA DRegisterNumber:24901185
+Developed by: BARADHAN.L RegisterNumber:24005473
 ```
 
 JK FlipFlop
